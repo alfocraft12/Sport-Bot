@@ -23,12 +23,6 @@ Ideal para clanes, comunidades de juegos y grupos gaming que buscan control, div
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ```bash
-termux-setup-storage
-```
-```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-```bash
 git clone https://github.com/alfocraft12/Sport-Bot-MD.git && cd Sport-Bot-MD
 ```
 ```bash
