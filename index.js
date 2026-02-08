@@ -64,7 +64,7 @@ let phoneInput = "";
 
 const { say } = cfonts
 
-say('hu tao', {
+say('Sport Bot', {
 align: 'center',           
 gradient: ['red', 'blue'] 
 })
